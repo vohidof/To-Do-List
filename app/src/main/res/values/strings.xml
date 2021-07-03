@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">To Do list</string>
+    <string name="to_do_list">To do list</string>
+    <string name="to_do_name">To do Name</string>
+    <string name="add_to_do">Add to do</string>
+    <string name="to_do_create_date">To do create date</string>
+    <string name="to_do_deadline">To do deadline</string>
+    <string name="ok">Ok</string>
+    <string name="todolist">To do list</string>
+    <string name="addtodo">Add to do</string>
+    <string name="to_do_description">To do description</string>
+    <string name="to_do_create_data">To do create data</string>
+    <string name="to_do_dedline">To do dedline</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="development">Development</string>
+    <string name="uploading">Uploading</string>
+    <string name="reject">Reject</string>
+    <string name="closed">Closed</string>
+</resources>
